@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Olakunle",
+    "occupation": "Javascript Developer",
+    "description": "A digital artist👨🏽‍💻, opened to learning and exploring new opportunities.",
+    "image": "profilepic.jpg",
+    "bio": "I am a Professional with 9 years working experience in the IT industry in which 4+ years of working is centered on developing, testing and deploying user friendly, mobile responsive web applications using Reactjs, Redux, Nodejs, Express, MongoDB and Postgresql. A valuable team player with a warm personality.",
+    "contactmessage": "Get in touch with me to discuss your next project, hire me or for tutoring.",
+    "email": "onejsninja@gmail.com",
+    "phone": "+353894636122",
+    "address": {
+      "street": "Home Office",
+      "city": "Dublin City",
+      "state": "Dublin"
+    },
+    "website": "#",
+    "resumedownload": "https://docs.google.com/document/d/17TG8W6mRnc8XDvibWlIgVZTQnbhba4Wz2dLHY2brOpE/edit",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCIQmSyT9pt_N3XCg9Uoc0fA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/olakunle.makanjuola",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/olakunle-makanjuola-7971155a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/macisreal_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Macrichie",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Ecole Supérieure Sainte Félicité, Cotonou, Bénin",
+        "degree": "Bachelor's Degree, Management Information Science",
+        "graduated": "July 2015"
+      },
+      {
+        "school": "Federal University of Agriculture, Abeokuta, Ogun, Nigeria",
+        "degree": "Bachelor's Degree, Agricultural Extension & Rural Development",
+        "graduated": "Jan 2008"
+      }
+    ],
+    "work": [
+      {
+        "company": "Hyperware Ltd",
+        "title": "Javascript Developer",
+        "years": "May 2020 - Present",
+        "description": "Designing and developing user-friendly, mobile responsive websites, and APIs using Node.js, Express, React, Redux, AWS, Firebase, Mongo DB, PostgreSQL, GraphQL."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "85%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone (MERN stack)",
+        "category": "",
+        "image": "amazone.png",
+        "url": "https://github.com/Macrichie/amazon-fullstack"
+      },
+      {
+        "title": "Spotify Clone (React JS)",
+        "category": "",
+        "image": "spotify.png",
+        "url": "https://github.com/Macrichie/spotify-clone"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflixclone.png",
+        "url": "netflix-clone-1f251.web.app/"
+      },
+      {
+        "title": "We-WeChat (Websocket Html/CSS/JS)",
+        "category": "",
+        "image": "we-wechat.png",
+        "url": "https://we-wechat.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ola has indepth knowledge of Javascript, he knows how to simplify complex subjects. I'll recommend him.",
+        "user": "Florence Smith"
+      },
+      {
+        "text": "Working with Ola over the past few months has been AWESOME, he makes working together on react projects enjoyable!",
+        "user": "Tunde Bakre"
+      }
+    ]
+  }
+}
