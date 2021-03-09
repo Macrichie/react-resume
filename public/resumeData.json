@@ -59,7 +59,7 @@
     ],
     "work": [
       {
-        "company": "Hyperware Ltd",
+        "company": "Hyperware Systems Ltd",
         "title": "Javascript Developer",
         "years": "May 2020 - Present",
         "description": "Designing and developing user-friendly, mobile responsive websites, and APIs using Node.js, Express, React, Redux, AWS, Firebase, Mongo DB, PostgreSQL, GraphQL."
@@ -93,8 +93,8 @@
       {
         "title": "Amazon Clone (MERN stack)",
         "category": "",
-        "image": "amazone.png",
-        "url": "https://github.com/Macrichie/amazon-fullstack"
+        "image": "digitalmart.png",
+        "url": "https://da-ecommerce-app.herokuapp.com/"
       },
       {
         "title": "Spotify Clone (React JS)",
@@ -106,7 +106,7 @@
         "title": "Netflix Clone (React JS)",
         "category": "",
         "image": "netflixclone.png",
-        "url": "netflix-clone-1f251.web.app/"
+        "url": "https://netflix-clone-ff0a2.web.app/"
       },
       {
         "title": "We-WeChat (Websocket Html/CSS/JS)",
